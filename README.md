@@ -1,1 +1,1 @@
-# Tema-1-Compilatoare
+Tema abordeaza primele 2 etape ale constructiei compilatorului pentru limbajul Cool, anume analiza lexicala si analiza sintactica. Astfel, am construit si parcurs un arbore de sintaxa abstracta, AST, folosind mecanismele listeners/visitors. 
